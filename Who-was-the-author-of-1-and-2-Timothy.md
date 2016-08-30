@@ -67,7 +67,7 @@ and that the heretic Marcion was correct. What is the basis for the claim of pio
 
 伝統の形成過程をみると、テモテへの手紙が信仰心に基づく捏造であるという主張は、古代教父たちが良く言えば偽物に騙され、悪く言えば捏造に加担し、異端のマルキオンが正しかったのだと含意している。信仰心に基づく捏造という主張の根拠を調べてみよう。
 
-<div class="idea">
+<!-- <div class="idea">
 <p>The critical arguments can be categorized into 4 areas:</p>
 <p class="indent1">1. <a href="#chronology">Chronology</a> – does the event of 1 Timothy correspond
 with the chronology of Paul’s travels in the book of Acts?</p>
@@ -81,31 +81,48 @@ Pauline thought and concept?</p>
 <p class="indent1">As a side note, what if the Pastoral Epistles were forgeries?
 <a href="TeachWhoAuthor1_2Timothy2.aspx#forgery">Pious Forgeries</a> – Was it possible for a forgery
 to be accepted in the Canon?</p>
-</div>
+</div> -->
 
-<div class="idea" id="chronology">
-<h1>The Problem of Chronology</h1>
+批判は４つの領域にカテゴライズできる。
+
+1. 年代。使徒行伝に記録されているパウロの伝道旅行とテモテ第一の手紙の出来事が調和するか？
+2. 文体。語彙、論理、構造など、舞台は他のパウロ書簡と合うか？
+3. 教会論。手紙に見られる教会の構造は1世紀のキリスト教会の制度と合うか？
+4. 神学。手紙で言及されているグノーシス主義は2世紀以降にのみ見られるものか。救済論はパウロの考えと一致するか？
+
+
+<!-- <h1>The Problem of Chronology</h1>
 <p>Critics charge that the book of Acts does not mention the situation where Paul goes to Macedonia
 and leaves Timothy at Ephesus
 (<a href="../21verses/1120.aspx" class="second">1 Tim 1:3</a>). With the belief that the chronological
 references of 1 Timothy does not correspond with the book of Acts, critics have assumed that 1 & 2 Timothy
-were written by a later author.</p>
-</div>
+were written by a later author.</p> -->
 
-<div class="idea">
+# 1. 年代の問題
+
+批判によると、使徒行伝はパウロがマケドニアに言ってエペソでテモテと別れたという状況は記録されていない(第一テモテ1:3)。第一テモテの年代言及が使徒行伝と合わないので、テモテの手紙は後の著者が書いたと仮定するのだ。
+
+<!-- <div class="idea">
 <p>However critics have misunderstood the reason for Paul’s first imprisonment and assumed that he
 was executed. This would have ended any chance of Paul going east; thus, he could not possibly write
 1 Timothy. Biblical and extra-biblical evidence clearly suggest otherwise. 1 Timothy does not fit
 within the chronology of Acts, because it took place after the end of Acts.</p>
 <p class="indent1">At the conclusion of his third missionary journey, Paul had organized a relief fund
 among the Gentile churches to help the poorer members of the Jerusalem church. He was returning to
-Jerusalem with representatives of the Gentile churches carrying their respective donations
-(<a href="../21verses/1038.aspx" class="second">Acts 20:17-36</a>,
+Jerusalem with representatives of the Gentile churches carrying their respective donations -->
+
+しかし、批判者はパウロが最初に収監された理由を誤解している。そのため、パウロが処刑されたと思い込んでいるのだ。パウロが東に行って終わったのだとすると、確かに第一テモテを書けない。が、聖書からも、また他の文書からも、そうでないという証拠がある。第一テモテは使徒行伝の記録とは合わないが、使徒行伝以後のことを書いているからだ。
+
+パウロの第三次伝道旅行の結果として、エルサレム教会の貧しい信者を助けるために異邦人教会に基金を募った。パウロはエルサレムに戻って異邦人教会の代表として寄付金を運んだ(使徒20:17-36、ローマ15:25-32)。エルサレム到着後しばらくして、パウロはユダヤ人のモブに攻撃され、ローマ兵士に助けられた(使徒21:26,22:1-30,23:10)。
+
+<!-- (<a href="../21verses/1038.aspx" class="second">Acts 20:17-36</a>,
 <a href="../21verses/1061.aspx" class="second">Rom 15:25-32</a>). Shortly after his arrival in Jerusalem,
 Paul was attacked by a Jewish mob and rescued by Roman soldiers
 (<a href="../21verses/1039.aspx" class="second">Acts 21:26</a>-
 <a href="../21verses/1040.aspx" class="second">22:1-30</a>-
-<a href="../21verses/1041.aspx" class="second">23:10</a>). He was imprisoned at the Roman governor’s
+<a href="../21verses/1041.aspx" class="second">23:10</a>). -->
+
+He was imprisoned at the Roman governor’s
 headquarters in Caesarea for the next 2 years  (<a href="../21verses/1041.aspx" class="second">Acts 23:11</a>-
 <a href="../21verses/1042.aspx" class="second">24:27</a>).</p>
 <p class="indent1">In response to God’s prompting of "so you must witness at Rome also"
@@ -118,7 +135,7 @@ he spent 2 years under house arrest waiting for his case to be heard before the 
 <a href="../21verses/1046.aspx" class="second">28:31</a>).</p>
 </div>
 
-<div class="idea">
+<!-- <div class="idea">
 <p class="indent1">When Luke finished writing the book of Acts, he does not reveal what happened to
 Paul’s case, and there is little information about the rest of Paul’s career. But there is implicit
 evidence that Paul was released.</p>
@@ -133,7 +150,10 @@ had he not appealed to Caesar (<a href="../21verses/1044.aspx" class="second">Ac
 <p class="indent3">While in captivity, Paul expresses confidence in his release
 (<a href="../21verses/1104.aspx" class="second">Phil 1:25</a>,
 <a href="../21verses/1105.aspx" class="second">2:24</a>,
-<a href="../21verses/1133.aspx" class="second">Philem 22</a>).</p>
+<a href="../21verses/1133.aspx" class="second">Philem 22</a>).</p> -->
+
+
+
 <p class="indent2">2. Ancient tradition says that Paul did go to Spain as he intended
 (<a href="../21verses/1061.aspx" class="second">Rom 15:24</a>).</p>
 <p class="indent3">Clement of Rome wrote that <i>"Paul...preached in the East and the West, and won
